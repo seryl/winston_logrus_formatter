@@ -3,6 +3,7 @@ package winston_logrus_formatter
 import (
 	"encoding/json"
 	"fmt"
+	log "github.com/Sirupsen/logrus"
 	"time"
 )
 
